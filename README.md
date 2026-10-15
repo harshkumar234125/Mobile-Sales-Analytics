@@ -1,50 +1,19 @@
-📱 Mobile Sales Analytics Dashboard
+Mobile Sales Analytics Dashboard
 
-This interactive Power BI dashboard provides a comprehensive analysis of mobile sales performance, customer behavior, and geographical trends across multiple dimensions such as brands, models, age groups, payment methods, operating systems, cities, and countries.
+📈 About this project
+Mobile businesses need to understand product performance, customer preferences, and geographical sales patterns to make better business decisions. This dashboard brings mobile sales data together in an interactive report, helping explore which brands and models generate revenue, how customers purchase devices, and which locations contribute to sales.
 
-📌 Key Metrics:
+✅ Approach 
+Developed a three-page Power BI dashboard covering Sales Performance, Customer Insights, and Location Insights. The report includes key performance indicators, brand and model comparisons, customer demographics, payment preferences, operating systems, sales channels, and geographical analysis. Used Power Query for data transformation, DAX for analytical measures, and interactive filters and visuals to explore sales performance from multiple perspectives.
 
-• Total Sales: $14.53M
-• Total Units Sold: 18.55K
-• Total Transactions: 366
-• Avg. Price: $785
+📊 Key Insights
+• Recorded $14.53M in total sales across 18.55K units sold and 366 transactions, with an average selling price of $785.
+• Compared revenue across mobile brands and models to identify products contributing most to overall sales.
+• Analyzed customer purchasing patterns by age group, gender, payment method, operating system, and sales channel.
+• Evaluated city- and country-level sales performance to explore geographical differences in revenue and transaction activity.
+• Combined product, customer, and location analysis into a single interactive report to support sales planning and marketing decisions.
 
-📊 Dashboard Features:
-📈 Page 1: Sales Performance 
 
-• KPIs for sales, units, transactions, and average price
-• Revenue by Mobile Model
-• Average Selling Price by Brand
-• Revenue by Brand
-• Revenue by Storage Capacity
-• Revenue by Mobile Color
+Description: Interactive Power BI dashboard analyzing mobile sales, product performance, customer purchasing behavior, and geographical trends using DAX and Power Query.
 
-Page 2: Customer Insights 📈
-
-• Units Sold by Mobile Model
-• Revenue by Age Band
-• Revenue by Payment Method
-• Revenue by Customer Gender
-• Revenue by Operating System
-• Revenue by Sales Channel
-
-Page 3: Location Insights📈
-
-• Revenue and Units by City
-• Top 10 Cities by Revenue
-• Revenue by Country
-• Transactions by Country
-• Interactive location-based analysis
-
-🛠️ Tools Used:
-Power BI
-DAX
-Power Query
-Data Modeling
-Data Visualization
-
-📁 Project Goal:
-To transform raw mobile sales data into clear, actionable insights—helping businesses understand what customers buy, who they are, and where sales are coming from to support smarter sales and marketing decisions.
-
-📎 Tags:
-Power BI | Data Analytics | Mobile Sales | Customer Insights | Business Intelligence | Data Visualization | Sales Dashboard
+Tags: Power BI · DAX · Power Query · Sales Analytics · Customer Insights · Data Visualization · Business Intelligence
