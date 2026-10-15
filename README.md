@@ -22,6 +22,7 @@ Developed a three-page Power BI dashboard covering Sales Performance, Customer I
 
 
 
+
 Description: Interactive Power BI dashboard analyzing mobile sales, product performance, customer purchasing behavior, and geographical trends using DAX and Power Query.
 
 Tags: Power BI · DAX · Power Query · Sales Analytics · Customer Insights · Data Visualization · Business Intelligence
